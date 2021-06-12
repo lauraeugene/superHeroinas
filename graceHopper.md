@@ -4,7 +4,7 @@ Grace Murray Hopper (**Nueva York, 9 de diciembre de 1906 - Condado de Arlington
 
 Popularizó la idea de los lenguajes de programación independientes de la máquina, lo que derivó en el desarrollo de COBOL, un lenguaje de alto nivel de programación que aún se utiliza. Era conocida por sus amistades como Amazing Grace.7​
 
-Carreras o especialidades:
+Carreras o especialidades: :smile: :heart_eyes:
 #### Lista ordenada:
 
 1. Ciencias de la computacion.
