@@ -19,3 +19,6 @@ Es una _científica **computacional**_, **matemática e _ingeniera_** de ~~Softw
 ### Imagenes
 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Empresa Coders")
+
+## Imagen de Margaret Hamilton
+![alt text](https://github.com/LedaHuerta/superHeroinas/margaretH.gif)
